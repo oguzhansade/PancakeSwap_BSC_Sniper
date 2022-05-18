@@ -1,4 +1,4 @@
-PancakeSwap BSC Sniper Bot
+﻿PancakeSwap BSC Sniper Bot
 
 This is a Telegram Bot that automatically Listens to Newly Listed Coins(But Only Legit ones) on PanCakeSwap(BSC Chain) and Automatically Buys them, listens to Price Variations and SWAPS Automatically(At a Profit) back to BNB
 
@@ -8,5 +8,5 @@ If price of newly bought token has to vary downwards, the bot keeps listening to
 
 •Instruction manual:
 
-To use the bot, you will need to run the file run.exe .
-Then follow the instructions in the command console to configure the bot.
+To use the bot, you will need to run the file run.exe.
+ Then follow the instructions in the command console to configure the bot.
